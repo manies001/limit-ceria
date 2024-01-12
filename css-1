@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Aleo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/aleo/v14/c4m61nF8G8_s6gHhIOX0IYBo_KJ3GlP6Foo.ttf) format('truetype');
+}
